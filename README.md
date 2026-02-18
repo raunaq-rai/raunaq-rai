@@ -9,7 +9,7 @@ My PhD uses JWST to understand the physical properties of galaxies across cosmic
 ## Education
 
 - **PhD Astrophysics** — University College London *(in progress)*
-- **MASt Data Intensive Science** — University of Cambridge
+- **MPhil Data Intensive Science** — University of Cambridge
 - **BSc Natural Sciences & MSc Data Science** — University of Durham
 
 ## Get in Touch
