@@ -1,6 +1,6 @@
-# Hi, I'm Raunaq Rai
+# Hey, I'm Raunaq!
 
-PhD student in the [Department of Physics & Astronomy](https://www.ucl.ac.uk/physics-astronomy/) at **University College London**, working on extragalactic astrophysics with the James Webb Space Telescope (JWST).
+I'm a PhD student in the [Department of Physics & Astronomy](https://www.ucl.ac.uk/physics-astronomy/) at **University College London**, working on extragalactic astrophysics with the James Webb Space Telescope (JWST).
 
 ## Research
 
@@ -10,7 +10,7 @@ My PhD uses JWST to understand the physical properties of galaxies across cosmic
 
 - **PhD Astrophysics** — University College London *(in progress)*
 - **MASt Data Intensive Science** — University of Cambridge
-- **MSc Natural Sciences (Physics and Chemistry) and Data Science** — University of Durham
+- **BSc Natural Sciences & MSc Data Science** — University of Durham
 
 ## Get in Touch
 
