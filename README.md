@@ -4,25 +4,15 @@ PhD student in the [Department of Physics & Astronomy](https://www.ucl.ac.uk/phy
 
 ## Research
 
-I study galaxy evolution in the early Universe using JWST observations. My work focuses on:
-
-- **Emission-line diagnostics** — probing the physical conditions of gas in distant galaxies
-- **SED fitting** — inferring galaxy properties from multi-wavelength photometry
-- **High-redshift galaxies** — understanding how galaxies formed and evolved in the first few billion years
+My PhD uses JWST to understand the physical properties of galaxies across cosmic time. The telescope has revealed a surprisingly abundant population of bright, massive galaxies in the early Universe — challenging our existing models of galaxy formation and evolution. My work aims to understand what is driving these observations and what they tell us about how galaxies form and evolve.
 
 ## Education
 
 - **PhD Astrophysics** — University College London *(in progress)*
 - **MASt Data Intensive Science** — University of Cambridge
-
-## Tools & Technologies
-
-```
-Python · astropy · NumPy · SciPy · matplotlib · JWST Pipeline
-photutils · specutils · lmfit · pyneb · bagpipes · eazy-py
-LaTeX · Git · Jupyter · pytest
-```
+- **MSc Natural Sciences (Physics and Chemistry) and Data Science** — University of Durham
 
 ## Get in Touch
 
+- **Email:** raunaq.rai.25@ucl.ac.uk
 - **GitHub:** [raunaq-rai](https://github.com/raunaq-rai)
