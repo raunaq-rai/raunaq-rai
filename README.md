@@ -1,6 +1,6 @@
 # Hey, I'm Raunaq!
 
-I'm a PhD student in the [Department of Physics & Astronomy](https://www.ucl.ac.uk/physics-astronomy/) at **University College London**, working on extragalactic astrophysics with the James Webb Space Telescope (JWST), supervised by Dr. Guido Roberts-Borsani.
+I'm a PhD student in the [Department of Physics & Astronomy](https://www.ucl.ac.uk/physics-astronomy/) at **University College London**, working on extragalactic astrophysics with the James Webb Space Telescope, supervised by Dr. Guido Roberts-Borsani.
 
 ## Research
 
